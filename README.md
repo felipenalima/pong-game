@@ -1,9 +1,9 @@
 # <p align="center">Pong Game</p>
 <p align="center">
- <a href="https://github.com/felipenalima/pong-game#project">About project</a> •
+ <a href="https://github.com/felipenalima/pong-game#hammer-about-project">About project</a> •
  <a href="https://github.com/felipenalima/pong-game#bulb-functionalities">Functionalities</a> • 
- <a href="https://github.com/felipenalima/pong-game#thegame">The Game</a> • 
- <a href="https://github.com/felipenalima/pong-game#autor">Autor</a>
+ <a href="https://github.com/felipenalima/pong-game#trophy-the-winner">The Game</a> • 
+ <a href="https://github.com/felipenalima/pong-game#pencil2-autor">Autor</a>
 </p>
 
 ### :hammer: <a href=#project>About Project</a>
