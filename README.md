@@ -1,9 +1,9 @@
 # <p align="center">Pong Game</p>
 <p align="center">
- <a href="#project">About project</a> •
- <a href="#functionalities">Functionalities</a> • 
- <a href="#thegame">The Game</a> • 
- <a href="#autor">Autor</a>
+ <a href="https://github.com/felipenalima/pong-game#project">About project</a> •
+ <a href="https://github.com/felipenalima/pong-game#bulb-functionalities">Functionalities</a> • 
+ <a href="https://github.com/felipenalima/pong-game#thegame">The Game</a> • 
+ <a href="https://github.com/felipenalima/pong-game#autor">Autor</a>
 </p>
 
 ### :hammer: <a href=#project>About Project</a>
@@ -49,7 +49,7 @@ The winner is the one who scores 5 points first !
 ### :pencil2: <a href=#autor>Autor</a>
 
 <a href="https://github.com/felipenalima">
- <img style="border-radius: 100px" src="https://avatars3.githubusercontent.com/u/56122093?s=460&u=70f29b47b6ddf63676f32566846b7661614bc8fe&v=4" width="100px;" alt="Felipe Lima"/>
+ <img style="border-radius: 30" src="https://avatars3.githubusercontent.com/u/56122093?s=460&u=70f29b47b6ddf63676f32566846b7661614bc8fe&v=4" width="100px;" alt="Felipe Lima"/>
  <br />
  <sub><b>Felipe Lima</b></sub></a> <a href="https://github.com/felipenalima" title="GitHub"></a>
  
