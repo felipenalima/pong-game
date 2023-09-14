@@ -46,7 +46,7 @@ The winner is the one who scores 5 points first !
 
 <p align="center"> <img src="https://media.giphy.com/media/frMi6NXW3wdP3zHN1r/source.gif" height="300" width="400" ></p>
 
-### :pencil2: <a href=#autor>Autor</a>
+### :pencil2: <a href=#author>Author</a>
 
 <a href="https://github.com/felipenalima">
  <img style="border-radius: 30" src="https://avatars3.githubusercontent.com/u/56122093?s=460&u=70f29b47b6ddf63676f32566846b7661614bc8fe&v=4" width="100px;" alt="Felipe Lima"/>
